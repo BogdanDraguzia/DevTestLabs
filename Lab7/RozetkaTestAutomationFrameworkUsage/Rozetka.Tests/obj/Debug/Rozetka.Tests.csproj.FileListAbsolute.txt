@@ -1,0 +1,49 @@
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.Core.dll
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.xml
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.pdb
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.pdb
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.pdb
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.xml
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.Core.pdb
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\FluentAssertions.Core.xml
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.xml
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.xml
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.csprojResolveAssemblyReference.cache
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.csproj.CoreCompileInputs.cache
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.dll
+C:\Новая папка\Testing2017-18\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.pdb
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Rozetka.Tests.pdb
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\RozetkaTestAutomationFrameworkUsage.pdb
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.xml
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\bin\Debug\WebDriver.Support.xml
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.csproj.CoreCompileInputs.cache
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.dll
+C:\Users\dbodi\Desktop\Labs\Lab7\RozetkaTestAutomationFrameworkUsage\Rozetka.Tests\obj\Debug\Rozetka.Tests.pdb
