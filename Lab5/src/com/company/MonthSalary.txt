@@ -1,0 +1,4 @@
+1 Donald 10000
+2 Mikki 8000
+3 Kim 10000
+4 George 5000

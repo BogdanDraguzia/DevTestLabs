@@ -1,0 +1,4 @@
+5 Slave 20
+6 Student 30
+7 Junior 50
+8 Deputy 60
