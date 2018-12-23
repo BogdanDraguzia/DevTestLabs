@@ -1,0 +1,14 @@
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\Google.Tests.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\Google.Tests.pdb
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\nunit.framework.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\TestFramework.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\WebDriver.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\TestFramework.pdb
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\nunit.framework.xml
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\WebDriver.xml
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\obj\Debug\Google.Tests.dll
+C:\Users\dbodi\Desktop\Labs\Lab6\TestsUseFramework\obj\Debug\Google.Tests.pdb
